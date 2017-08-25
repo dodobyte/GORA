@@ -4,7 +4,7 @@
 
 This was my first Go project. It's a single level top-down space shooter. 
 
-You need SDL2 and [go-sdl2](https://github.com/veandco/go-sdl2) binding to build it. If you just want to play, you can download binary distribution [here](dogankurt.com/gora.zip).
+You need SDL2 and [go-sdl2](https://github.com/veandco/go-sdl2) binding to build it. If you just want to play, you can download binary distribution [here](http://dogankurt.com/gora.zip).
 
 Here are some screenshots
 
